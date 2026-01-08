@@ -1,0 +1,5 @@
+cat, pen, sun, map, dog, ran, hat,
+sand, book, lamp, tree, game, road, fish,
+apple, chair, bread, smile, stone, plant, clock,
+window, garden, bottle, travel, puzzle, candle, mirror,
+picture, journey, morning, diamond, mystery, blanket, freedom
