@@ -13,3 +13,4 @@ elem.send_keys(Keys.RETURN)
 assert "No results found." not in driver.page_source
 time.sleep(6)
 driver.close()
+

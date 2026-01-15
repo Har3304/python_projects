@@ -57,18 +57,3 @@ for c in cards:
         df.loc[len(df)]=[data[0], data[1], data[2], data[3], decision]
 
 print(df)
-
-
-
-
-
-# role=[]
-# counter=0
-# for r in ref:
-#     counter+=1
-#     cont=BeautifulSoup(requests.get(r).text, 'lxml').find('div', class_='content').text
-#     cont=str(cont)
-#     if 'css' in cont or 'CSS' in cont or 'Css' in cont:
-#         df.loc[ref.index(r), 'Compatible']='Yes'
-#         print(counter, "Yes")
-#     print(counter,'No')
